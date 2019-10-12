@@ -11,7 +11,9 @@ Any question or sugguesion please submit issue to <br>
 <https://github.com/zhengying/Hungrymark-issue>
 
 or email me:<br>
-zhengyingok@me.com
+<zhengyingok@me.com>
+
+Features:
 
 ![description](description.png)
 
