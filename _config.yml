@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+sidebar:
+  - title: "Title"
+    image: 256.png
+    image_alt: "256.png"
+    text: "Hungrymark"
+  - title: "Another Title"
+    text: "issues"
