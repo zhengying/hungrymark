@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Hungrymark
+##### `bookmark your favorite file , folder and website`
 
-You can use the [editor on GitHub](https://github.com/zhengying/hungrymark/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am an independent developer. I used to work in iOS development. I am currently developing a game. I often spend a lot of time searching for information, and  I need to collect the webpage and local files, server files, quickly switch between these materials, I had been used to do it in Evernote, but I found its still not convenient, in fact, my demand is to collect resource paths, quick access, I wrote a small  app to collect these links, the app was originally not intended to be published by the application, but the app is really easy to use, my wife is also using this app, every time she said that this app is so convenient, it can be released In the AppStore, so I take several days, make icon, unify the UI looking, write help documents, and make a lot of optimization adjustments to the app, Today the app (Hungrymark) is on sale now current price less than $1.  It's so convenient that I recommend you try it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![hungrymark](256.png)
 
-### Markdown
+![MacAppStore](macAppStore256.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![description](description.png)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhengying/hungrymark/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
