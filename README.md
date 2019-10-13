@@ -21,7 +21,9 @@ Any question or sugguesion please submit issue to <br>
 <https://github.com/zhengying/Hungrymark-issue>
 
 or email me:<br>
-<zhengyingok@me.com>
+<zhengyingok@me.com> <br>
+<br>中文用户可以到 v2ex Hungrymark 主题贴讨论 <https://www.v2ex.com/t/608363>
+
 
 Features:
 --
