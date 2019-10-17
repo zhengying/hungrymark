@@ -15,7 +15,7 @@ thanks.
 
 [![hungrymark](256.png)](https://apps.apple.com/cn/app/hungrymark/id1482778901?l=en&mt=12)
 
-![MacAppStore](macAppStore256.png)
+[![MacAppStore](macAppStore256.png)](https://apps.apple.com/cn/app/hungrymark/id1482778901?l=en&mt=12)
 
 Any question or sugguesion please submit issue to <br>
 <https://github.com/zhengying/Hungrymark-issue>
