@@ -1,4 +1,4 @@
 {
-  "version" : "1.1.6",
+  "version" : "1.3.1.2",
   "comments" : [{"en":"修复所有上报bug\n谢谢大家帮助"},{"zh-Hans":"fix all reported bugs\nthanks for your help"}]
 }
