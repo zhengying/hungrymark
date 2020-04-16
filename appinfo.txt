@@ -1,4 +1,4 @@
 {
-  "version" : "1.2.1.11",
+  "version" : "1.2.2.12",
   "comments" : [{"en":"bug fix"},{"zh-Hans":"修复bug"}]
 }
