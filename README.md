@@ -2,8 +2,6 @@
 ##### `bookmark your favorite file , folder and website`
 [![Youtube introduce](https://img.youtube.com/vi/iJPigmBsjS0/0.jpg)](https://www.youtube.com/watch?v=iJPigmBsjS0)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iJPigmBsjS0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 [![hungrymark](256.png)](https://apps.apple.com/cn/app/hungrymark/id1482778901?l=en&mt=12)
 
 [![MacAppStore](macAppStore256.png)](https://apps.apple.com/cn/app/hungrymark/id1482778901?l=en&mt=12)
